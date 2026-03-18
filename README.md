@@ -22,7 +22,7 @@
 ### Core Competencies
 * **Systems Design:** Establishing high-fidelity competency standards for aviation and technology assessments.
 * **Organizational Scaling:** Leading cross-functional teams through complex growth phases in multi-cultural settings.
-* **Data-Driven Decisioning:** Transforming raw workforce metrics into actionable executive insights to secure $33M+ in operational funding.
+* **Data-Driven Decisioning:** Transforming raw workforce metrics into actionable executive insights to secure operational funding.
 
 ### Contact & Portfolio
 * **LinkedIn:** https://www.linkedin.com/in/dan-greene-ab7718147/
