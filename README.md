@@ -1,7 +1,7 @@
 # Operational Strategy & AI-Integrated Workforce Architecture
 
-**Engineering scalable workforce systems and AI-integrated frameworks to drive global organizational excellence across U.S. and APAC markets.**
-
+**Engineering scalable workforce systems and AI-integrated frameworks to sustain high-performance scaling across global markets.
+**
 
 ### Quick Facts
 | Category | Details |
