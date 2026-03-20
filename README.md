@@ -6,7 +6,7 @@
 | Category | Details |
 | :--- | :--- |
 | **Experience** | 10+ Years (Global Operations & HR Strategy) |
-| **Education** | MBA Candidate, International HRD (Taipei) |
+| **Education** | MBA 2026 |
 | **Specialization** | AI-Augmented Systems & Workforce Architecture |
 | **Links** | [Portfolio & Case Studies](https://dannygme.github.io/) |
 
